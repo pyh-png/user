@@ -1,0 +1,7 @@
+﻿  readjpg.cpp
+f:\dariy\handian\test\test\threadpool.h(85): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+f:\dariy\handian\test\test\line.h(283): warning C4018: “<”: 有符号/无符号不匹配
+f:\dariy\handian\test\test\line.h(285): warning C4018: “<”: 有符号/无符号不匹配
+f:\dariy\handian\test\test\line.h(302): warning C4018: “>”: 有符号/无符号不匹配
+f:\dariy\handian\test\test\line.h(302): warning C4018: “<”: 有符号/无符号不匹配
+  test.vcxproj -> F:\dariy\handian\test\x64\Debug\test.exe
